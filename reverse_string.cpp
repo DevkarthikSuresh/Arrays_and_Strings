@@ -1,3 +1,6 @@
+//Name:Devkarthik
+//PRN:23070123045
+//Aim:Using loops to reverse a given string.
 #include <iostream>
 #include <string>
 using namespace std;
@@ -15,3 +18,6 @@ for(int i = n;i>=0;i--)
 
     return 0;
 }
+/*Output:
+olleh
+*/
