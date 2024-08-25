@@ -8,7 +8,7 @@ To study use of and to implement arrays and strings in C++.
 ## Theory
 
 ### Arrays in C++
-An array is a collection of elements of the same data type stored at contiguous memory locations. Arrays in C++ are a data structure that can hold multiple values in a single variable, allowing for manipulation of data.
+An array is a data structure of elements with same data type stored at contiguous memory locations. 
 ![image](https://github.com/user-attachments/assets/22f534ee-3dbc-4249-b0e6-a2d5f40e1371)
 
 
@@ -78,7 +78,7 @@ string str1 = "Hello";
    - Use `for` loop in the array.
 
 3. **Print Each Element:**
-   - Inside the loop, print each element of the array.
+   - print each element of the array using the loop.
 
 4. **End Program:**
 
@@ -96,13 +96,13 @@ string str1 = "Hello";
    - Ask the user to enter a number and store it in `key`.
 
 3. **Search for the Key:**
-   - Use `for` loop to iterate the array `x`.
-   - Compare the element `x[i]` with `key` in each step.
+   - Use `for` loop over the array `x`.
+   - check `x[i]` with `key` in the loop.
 
 4. **Check for Match:**
    - If (`key == x[i]`), print `i` where the key is found and exit the loop using `break`.
 
-5. **Check if Not Found:**
+5. **If Not Found:**
    - After the loop, if no match is found (`i == 5`), print "Number not found".
 
 6. **End Program:**
