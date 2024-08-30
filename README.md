@@ -5,6 +5,9 @@ Experiment 7
 ## AIM
 To study use of and to implement arrays and strings in C++.
 
+## Software Used 
+VS Code
+
 ## Theory
 
 ### Arrays in C++
